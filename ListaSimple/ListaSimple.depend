@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486609403 source:c:\users\eliezer\documents\estructura de datos\tarea1listasimple\listasimple\main.cpp
+	<iostream>
+	<stdlib.h>
+
